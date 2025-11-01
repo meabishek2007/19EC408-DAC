@@ -98,9 +98,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ![WhatsApp Image 2025-09-08 at 18 43 21_8569eba9](https://github.com/user-attachments/assets/4af2e393-022e-4624-be63-87ec90c744fb)
 
-
-## Result
-
+## Result:
 Thus, the **DAC was interfaced with 8086** and different **waveforms** were successfully generated.
 
 
